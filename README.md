@@ -1,2 +1,0 @@
-# RimWorld
-My RimWorld Mods
